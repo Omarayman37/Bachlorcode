@@ -176,4 +176,3 @@ dependencies:
     - webencodings==0.5.1
     - websocket-client==1.4.1
     - widgetsnbextension==4.0.3
-prefix: C:\Users\Omar\anaconda3\envs\tf
